@@ -1,5 +1,10 @@
 [
     {
+        "d": "21.02.2026",
+        "t": "+ Изменено главное меню\n+ Изменен интерфейс автосалона\n+ Фиксы по синхре стрельбы, и здоровья на сервере, но надо тестить\n+ Еще всякое разное",
+        "img": "https://media.discordapp.net/attachments/1472902189277122573/1474768283352698992/image.png?ex=699b0c7e&is=6999bafe&hm=e487cfc91fffc2df4535e096beb85e8f680dd4eb8b6b1c961c898c4262871606&=&format=webp&quality=lossless&width=1545&height=856"
+    },
+    {
         "d": "20.02.2026",
         "t": "+ Переношу потихоньку весь интерфейс на CEF",
         "img": "https://media.discordapp.net/attachments/1472902189277122573/1474160985177592023/image.png?ex=69997fa7&is=69982e27&hm=6a3596479640054d91d7905d20880331dc83f91e9daa07383c1451989e5c1647&=&format=webp&quality=lossless"
